@@ -38,12 +38,12 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("icon-email-header.svg");
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("icon-phone-header.svg");
 }
 
 .hero-image {
@@ -111,11 +111,11 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  background-image: url("icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+  background-image: url("icon-css.svg");
 }
 
 .level {
